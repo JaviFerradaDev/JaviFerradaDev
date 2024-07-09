@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👩‍💻 Acerca de mí
+🖥️ Como profesional en Desarrollo Web y educadora, encuentro mi pasión en la confluencia entre la tecnología y el aprendizaje. Actualmente, estoy inmersa en el programa de Desarrollador Web en Laboratoria, donde fusiono mi impulso por continuar aprendiendo, el diseño y la funcionalidad, con la adquisición de habilidades en lenguajes de programación Front-End como HTML, CSS, React y JavaScript.
 
-<!--
-**JaviFerradaDev/JaviFerradaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experiencia Profesional
+La diversidad de disciplinas que he cultivado a lo largo de mi trayectoria profesional como educadora, voluntaria y líder de equipos me proporciona una visión completa al enfrentarme a los proyectos.
 
-Here are some ideas to get you started:
+## Enfoque y Metodología
+🎯 Mi enfoque no se limita únicamente a la creación de interfaces atractivas, sino que también me motiva la búsqueda de soluciones que mejoren la experiencia del usuario, centrándome en la accesibilidad y las necesidades individuales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visión y Futuro
+🚀 Estoy emocionada por seguir creciendo y dejando huella en el mundo digital, aportando en cada colaboración en un entorno donde pueda continuar aprendiendo y donde la relación con mis compañeros y compañeras de equipo sea tan valiosa como el trabajo que realizamos.
+
+¡Gracias por visitar mi perfil! 
