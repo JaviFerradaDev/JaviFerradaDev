@@ -5,7 +5,7 @@
 La diversidad de disciplinas que he cultivado a lo largo de mi trayectoria profesional como educadora, voluntaria y líder de equipos me proporciona una visión completa al enfrentarme a los proyectos.
 
 ## Enfoque y Metodología
-🎯 Mi enfoque no se limita únicamente a la creación de interfaces atractivas, sino que también me motiva la búsqueda de soluciones que mejoren la experiencia del usuario, centrándome en la accesibilidad y las necesidades individuales.
+🎯 Mi enfoque no se limita únicamente a la creación de interfaces atractivas, sino que también me motiva la búsqueda de soluciones que mejoren la experiencia del usuario, centrándome en la funcionalidad y adecuaciones.
 
 ## Visión y Futuro
 🚀 Estoy emocionada por seguir creciendo y dejando huella en el mundo digital, aportando en cada colaboración en un entorno donde pueda continuar aprendiendo y donde la relación con mis compañeros y compañeras de equipo sea tan valiosa como el trabajo que realizamos.
